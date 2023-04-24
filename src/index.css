@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Karla", sans-serif;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #EFF6FF;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #0B3954;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #082c41;
+}
