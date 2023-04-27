@@ -12,7 +12,7 @@ const Working = (props: Props) => {
   return (
     <section className='bg-gradient-to-r from-primary to-secondary w-full rounded-t-xl py-6'>
         <div className="mx-auto w-11/12">
-            <h1 className='font-bold text-2xl text-center text-textPrimary pb-6 md:pb-0'>About Us</h1>
+            <h1 className='font-bold text-2xl text-center text-textPrimary pb-6 md:pb-0'>How It Works</h1>
             <div className="flex items-center justify-center gap-2 mb-6">
                 <hr className='w-6'/>
                 <h3 className='font-normal text-center text-textPrimary text-lg'>3 Simple Steps To Go </h3>

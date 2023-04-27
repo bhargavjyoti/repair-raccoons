@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "title" : "Screen Replacement",
+        "content" : "One of the most common issues with mobile phones is a cracked or shattered screen. We’ll fix that."
+    },
+    {
+        "id" : 2,
+        "title" : "Battery Replacement",
+        "content" : "Another common issue with mobile phones is a battery that no longer holds a charge. We’ll fix that."
+    },
+    {
+        "id" : 3,
+        "title" : "Water Damage Repair",
+        "content" : "Accidentally dropping a phone in water can cause significant damage. Don't Worry, Bring it to us!!"
+    }
+]

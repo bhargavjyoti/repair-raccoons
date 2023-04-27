@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "content": "I recently used the mobile repairing services on this website and I have to say that I was very impressed with the service.",
+        "name": "Dave",
+        "city": "Austin, TX"
+    },
+    {
+        "id": 2,
+        "content": "The website was very easy to use and I was able to quickly find the repair services I needed.",
+        "name": "Sara",
+        "city": "Denver, CO"
+    },
+    {
+        "id": 3,
+        "content": "The quality of the repair work was excellent, and my phone was fixed to my satisfaction.",
+        "name": "Ben",
+        "city": "Seattle, WA"
+    }
+]
