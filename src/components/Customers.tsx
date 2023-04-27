@@ -14,6 +14,7 @@ const Customers = (props: Props) => {
                         return <div key={customer.id} className='flex flex-col justify-between bg-gradient-to-r from-primary to-secondary p-2 text-textPrimary text-center rounded-lg h-40 md:h-48 md:w-1/3'>
                             <p className='font-normal text-md lg:text-xl'>{customer.content}</p>
                             <div>
+                                <hr />
                                 <h2 className='font-bold text-xl lg:text-2xl'>{customer.name}</h2>
                                 <p className='font-normal text-sm lg:text-md'>{customer.city}</p>
                             </div>
