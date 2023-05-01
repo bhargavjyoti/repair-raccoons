@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "title": "How long will it take to repair my mobile device?",
+        "content": "The time it takes to repair your mobile device will depend on the type of repair needed and the availability of replacement parts. In most cases, we aim to complete repairs within 24-48 hours."
+    },
+
+    {
+        "id": 1,
+        "title": "How much will it cost to repair my mobile device?",
+        "content": "The cost of repairs will depend on the type of repair needed and the extent of the damage. We offer competitive pricing and provide an upfront quote before starting any repairs."
+    },
+
+    {
+        "id": 2,
+        "title": "Will I lose any data on my mobile device during the repair process?",
+        "content": "We take data privacy very seriously and will always try to avoid any data loss during the repair process. However, we recommend backing up your data before bringing in your device for repair."
+    },
+
+    {
+        "id": 3,
+        "title": "Do you offer a warranty on mobile device repairs?",
+        "content": "Yes, we offer a warranty on all our mobile device repairs. The warranty period varies depending on the type of repair and the parts used."
+    },
+
+    {
+        "id": 4,
+        "title": "Do you offer mobile device repair services for all brands?",
+        "content": "Yes, we offer mobile device repair services for most major brands including Apple, Samsung, Huawei, LG, and more. If you're unsure whether we can repair your device, please contact us for more information."
+    },
+
+    {
+        "id": 5,
+        "title": "What payment methods do you accept?",
+        "content": "We accept a variety of payment methods, including cash, credit cards, and debit cards."
+    }
+]
