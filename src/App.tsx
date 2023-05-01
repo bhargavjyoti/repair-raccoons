@@ -5,6 +5,7 @@ import Working from "./components/Working";
 import Features from "./components/Features";
 import Customers from "./components/Customers";
 import FAQ from "./components/FAQ";
+import Contact from "./components/Contact";
 
 function App() {
     return (
@@ -16,6 +17,7 @@ function App() {
             <Features />
             <Customers />
             <FAQ />
+            <Contact />
         </>
     );
 }
