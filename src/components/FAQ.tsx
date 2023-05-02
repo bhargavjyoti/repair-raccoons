@@ -18,7 +18,7 @@ const FAQ = (props: Props) => {
     }
     
     return (
-        <div className='bg-textPrimary w-full py-6'>
+        <div className='bg-textPrimary w-full py-6' id='faq'>
             <div className='w-11/12 mx-auto'>
                 <h1 className='font-bold text-2xl text-center text-textSecondary mb-6 md:pb-0'>Still Got Questions?</h1>
                 <div className="flex flex-col justify-center items-center min-h-screen gap-4">

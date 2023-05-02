@@ -5,7 +5,7 @@ type Props = {}
 
 const About = (props: Props) => {
   return (
-    <section className='bg-textPrimary w-full py-6'>
+    <section className='bg-textPrimary w-full py-6' id='about'>
       <div className='w-11/12 mx-auto'>
       <h1 className='font-bold text-2xl text-center text-textSecondary pb-6 md:pb-0'>About Us</h1>
         <div className="flex flex-col-reverse items-center md:flex-row md:items-center md:min-h-screen md:justify-between">

@@ -10,7 +10,7 @@ type Props = {}
 
 const Working = (props: Props) => {
   return (
-    <section className='bg-gradient-to-r from-primary to-secondary w-full rounded-t-xl py-6'>
+    <section className='bg-gradient-to-r from-primary to-secondary w-full rounded-t-xl py-6' id='working'>
         <div className="mx-auto w-11/12">
             <h1 className='font-bold text-2xl text-center text-textPrimary pb-6 md:pb-0'>How It Works</h1>
             <div className="flex items-center justify-center gap-2 mb-6">

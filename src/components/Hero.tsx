@@ -6,7 +6,7 @@ type Props = {};
 
 const Hero = (props: Props) => {
     return (
-        <main className="bg-gradient-to-r from-primary to-secondary w-full">
+        <main className="bg-gradient-to-r from-primary to-secondary w-full" id='home'>
             <div className="mx-auto w-11/12">
                 <div className="flex flex-col items-center min-h-screen">
                     <div className="mt-24 mb-12">
