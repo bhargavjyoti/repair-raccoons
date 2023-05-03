@@ -6,7 +6,7 @@ const Contact = (props: Props) => {
   return (
     <div className='bg-gradient-to-r from-primary to-secondary w-full py-12' id='contact'>
       <div className='w-11/12 mx-auto'>
-        <h1 className='font-bold text-2xl text-center text-textPrimary mb-6 md:pb-0'>Still Got Questions?</h1>
+        <h1 className='font-bold text-2xl text-center text-textPrimary mb-6 md:pb-0'>Contact Us</h1>
         <div className='flex flex-col-reverse md:flex-row md:w-full md:justify-between md:items-center'>
           <form className='w-full'>
             <div className='flex flex-col gap-4 md:w-1/2'>
