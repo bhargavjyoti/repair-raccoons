@@ -8,7 +8,7 @@ Repair Raccoons is a fictional phone repair company website. The complete webist
 
 ## Demo
 
-- Live Site URL: [Live Preview](https://bhargavjyoti.github.io/react-tailwind-website/)
+- Live Site URL: [Live Preview](https://repair-raccoons.netlify.app/)
 
 
 ### Built with
